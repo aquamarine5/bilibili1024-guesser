@@ -8,3 +8,5 @@
 - redis
 - requests
 （可使用 `pip install redis`和`pip install requests`安装）
+## 结果
+![Result](https://i0.hdslb.com/bfs/album/4a1e15971ed5f4c383479d54e6ae5ff96724395f.jpg)
